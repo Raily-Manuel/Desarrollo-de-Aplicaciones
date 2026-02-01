@@ -1,0 +1,10 @@
+C:\Users\Sebastian Sanchez\Downloads\PokeRama-main\PokeRama-main\Datos_Empleado\bin\Debug\Datos_Empleado.exe.config
+C:\Users\Sebastian Sanchez\Downloads\PokeRama-main\PokeRama-main\Datos_Empleado\bin\Debug\Datos_Empleado.exe
+C:\Users\Sebastian Sanchez\Downloads\PokeRama-main\PokeRama-main\Datos_Empleado\bin\Debug\Datos_Empleado.pdb
+C:\Users\Sebastian Sanchez\Downloads\PokeRama-main\PokeRama-main\Datos_Empleado\obj\Debug\Datos_Empleado.csproj.AssemblyReference.cache
+C:\Users\Sebastian Sanchez\Downloads\PokeRama-main\PokeRama-main\Datos_Empleado\obj\Debug\Datos_Empleado.Form1.resources
+C:\Users\Sebastian Sanchez\Downloads\PokeRama-main\PokeRama-main\Datos_Empleado\obj\Debug\Datos_Empleado.Properties.Resources.resources
+C:\Users\Sebastian Sanchez\Downloads\PokeRama-main\PokeRama-main\Datos_Empleado\obj\Debug\Datos_Empleado.csproj.GenerateResource.cache
+C:\Users\Sebastian Sanchez\Downloads\PokeRama-main\PokeRama-main\Datos_Empleado\obj\Debug\Datos_Empleado.csproj.CoreCompileInputs.cache
+C:\Users\Sebastian Sanchez\Downloads\PokeRama-main\PokeRama-main\Datos_Empleado\obj\Debug\Datos_Empleado.exe
+C:\Users\Sebastian Sanchez\Downloads\PokeRama-main\PokeRama-main\Datos_Empleado\obj\Debug\Datos_Empleado.pdb
